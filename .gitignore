@@ -1,0 +1,7 @@
+# .gitignore
+.vscode/
+*.iml
+.idea/
+build/
+.gradle/
+*.log
